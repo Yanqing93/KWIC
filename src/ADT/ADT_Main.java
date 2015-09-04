@@ -25,7 +25,7 @@ public class ADT_Main{
 		userInput input = new userInput();
 		input.invoke(readline);
 		
-		circularShift shift = new circularShift(input.getTitles(),input.getIgnoreWords());
+		circularShift shift = new circularShift(characters.getTitles(),characters.getIgnoreWords());
 		shift.invoke();
 		
 		alphabetSort sort = new alphabetSort(shift.getShifted());

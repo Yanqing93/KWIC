@@ -16,6 +16,11 @@ public class userInput {
 	public userInput(){
 	}
 	
+	private void storeInputs(){
+		characters Characters = new characters();
+		Characters.storeSentences(titles, toIgnore);
+	}
+	
 	public void invoke(Scanner input){
 		String line = new String();
 		String[] parsing;
@@ -34,14 +39,8 @@ public class userInput {
 			}
 			titles.add(title);
 		}
-	}
-	
-	public ArrayList<ArrayList<String>> getTitles(){
-		return this.titles;
-	}
-	
-	public String[] getIgnoreWords(){
-		return this.toIgnore;
+		storeInputs();
+		
 	}
 	
 	public void printTitles(){

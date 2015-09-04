@@ -1,3 +1,9 @@
+/**
+ * Contributor: Nicholas Chew
+ * 
+ * Description: This is the main file of Shared Data implementation
+ */
+
 package SharedData;
 import java.util.Vector;
 

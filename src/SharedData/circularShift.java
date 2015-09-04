@@ -1,3 +1,9 @@
+/*
+ * Contributor: Nicholas Chew
+ * 
+ * Description: Shifts sentences with keywords in front
+ * 
+ */
 package SharedData;
 import java.util.Vector;
 

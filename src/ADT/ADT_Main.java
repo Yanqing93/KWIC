@@ -1,3 +1,9 @@
+/**
+ * Contributor: Zhang Yanqing
+ * 
+ * Description: This is the main file of ADT implementation
+ */
+
 package ADT;
 
 import java.util.Scanner;

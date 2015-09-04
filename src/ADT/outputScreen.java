@@ -1,3 +1,10 @@
+/*
+ * Contributor: Zhang Yanqing
+ * 
+ * Description: Outputs result to console
+ * 
+ */
+
 package ADT;
 import java.util.ArrayList;
 

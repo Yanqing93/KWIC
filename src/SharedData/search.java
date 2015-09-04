@@ -1,3 +1,9 @@
+/*
+ * Contributor: Nicholas Chew
+ * 
+ * Description: Search for sentence
+ * 
+ */
 package SharedData;
 import java.util.Vector;
 

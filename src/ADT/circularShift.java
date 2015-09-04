@@ -1,3 +1,10 @@
+/*
+ * Contributor: Zhang Yanqing
+ * 
+ * Description: Shifts sentences with keywords in front
+ * 
+ */
+
 package ADT;
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,3 +1,10 @@
+/*
+ * Contributor: Zhang Yanqing
+ * 
+ * Description: Sorts shifted sentences in ascending alphabetical order
+ * 
+ */
+
 package ADT;
 import java.util.ArrayList;
 

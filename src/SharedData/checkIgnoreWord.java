@@ -1,3 +1,10 @@
+/*
+ * Contributor: Nicholas Chew
+ * 
+ * Description: Checks for ignore words
+ * 
+ */
+
 package SharedData;
 import java.util.Vector;
 

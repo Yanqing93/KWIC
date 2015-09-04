@@ -1,3 +1,9 @@
+/*
+ * Contributor: Nicholas Chew
+ * 
+ * Description: Sorts shifted sentences in ascending alphabetical order
+ * 
+ */
 package SharedData;
 import java.util.Vector;
 

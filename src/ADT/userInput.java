@@ -1,3 +1,10 @@
+/*
+ * Contributor: Zhang Yanqing
+ * 
+ * Description: Receives user input: ignore words and sentences
+ * 
+ */
+
 package ADT;
 import java.util.ArrayList;
 import java.util.Scanner;

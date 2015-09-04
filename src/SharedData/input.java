@@ -1,3 +1,9 @@
+/*
+ * Contributor: Nicholas Chew
+ * 
+ * Description: Receives user input: sentences
+ * 
+ */
 package SharedData;
 import java.util.Scanner;
 

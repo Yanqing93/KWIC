@@ -1,3 +1,9 @@
+/*
+ * Contributor: Nicholas Chew
+ * 
+ * Description: Output result to console
+ * 
+ */
 package SharedData;
 import java.util.Vector;
 

@@ -1,3 +1,10 @@
+/*
+ * Contributor: Zhang Yanqing
+ * 
+ * Description: UI for users to choose implementation of program
+ * 
+ */
+
 import java.util.Scanner;
 
 import ADT.ADT_Main;
